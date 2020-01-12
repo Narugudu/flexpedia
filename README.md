@@ -24,6 +24,8 @@ Gets client reports in system as CSV with below fields invoice id,company,amount
 How to run?
 ```
 php -s localhost:5000
+
+http://localhost:5000/
 ```
 
 Invoice report:
@@ -35,8 +37,10 @@ Client Reports:
 ```
 http://localhost:5000/clients.php
 ```
-
+####Desktop UI
 ![Desktop UI](docImages/desktop-ui.png)
+
+####Mobile UI
 ![Mobile UI](docImages/mobile-ui.png)
 ![Mobile Sidenav UI](docImages/mobile-sidenav.png)
 
