@@ -1,8 +1,9 @@
 # FlexPedia Invoice UI
 The repository is a sample project for FlexPedia group. It provides a PHP based UI for Invoice management. It is a Desktop as well as Mobile friendly UI.
 
-![Image of Yaktocat](https://github.com/Narugudu/addressAPI/blob/master/Screenshot%20from%202020-01-05%2013-14-11.png)
-
+![Desktop UI](docImages/desktop-ui.png)
+![Mobile UI](docImages/mobile-ui.png)
+![Mobile Sidenav UI](docImages/mobile-sidenav.png)
 
 # Getting started
 It allows us to get below.
