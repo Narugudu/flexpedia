@@ -37,10 +37,10 @@ Client Reports:
 ```
 http://localhost:5000/clients.php
 ```
-####Desktop UI
+# Desktop UI
 ![Desktop UI](docImages/desktop-ui.png)
 
-####Mobile UI
+# Mobile UI
 ![Mobile UI](docImages/mobile-ui.png)
 ![Mobile Sidenav UI](docImages/mobile-sidenav.png)
 
