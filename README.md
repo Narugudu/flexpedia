@@ -37,8 +37,8 @@ http://localhost:5000/clients.php
 ```
 
 ![Desktop UI](docImages/desktop-ui.png)
-![Mobile UI](docImages/mobile-ui.png| width=100)
-![Mobile Sidenav UI](docImages/mobile-sidenav.png| width=100)
+![Mobile UI](docImages/mobile-ui.png | width=100)
+![Mobile Sidenav UI](docImages/mobile-sidenav.png | width=100)
 
 
 
