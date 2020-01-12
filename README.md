@@ -1,10 +1,6 @@
 # FlexPedia Invoice UI
 The repository is a sample project for FlexPedia group. It provides a PHP based UI for Invoice management. It is a Desktop as well as Mobile friendly UI.
 
-![Desktop UI](docImages/desktop-ui.png)
-![Mobile UI](docImages/mobile-ui.png)
-![Mobile Sidenav UI](docImages/mobile-sidenav.png)
-
 # Getting started
 It allows us to get below.
 * Invoice reports
@@ -39,6 +35,11 @@ Client Reports:
 ```
 http://localhost:5000/clients.php
 ```
+
+![Desktop UI](docImages/desktop-ui.png)
+![Mobile UI](docImages/mobile-ui.png|width =250)
+![Mobile Sidenav UI](docImages/mobile-sidenav.png|width =250)
+
 
 
 ## Author
