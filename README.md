@@ -23,7 +23,7 @@ Gets client reports in system as CSV with below fields invoice id,company,amount
 
 How to run?
 ```
-php -s localhost:5000
+php -S localhost:5000
 
 http://localhost:5000/
 ```
